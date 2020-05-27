@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/codeStyles/codeStyleConfig.xml
+/compiler.xml
+/../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/encodings.xml
+/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/jarRepositories.xml
+/../target/classes/com/lambdaexp/examples/basic/LambdaBasic.class
+/misc.xml
+/codeStyles/Project.xml
+/vcs.xml
